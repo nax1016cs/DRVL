@@ -1,0 +1,17 @@
+HW1/data/
+__pycache__/
+HW1/answer.txt
+*.pt
+visaulize.py
+effi_paper_ckpt/
+resnet152/
+resnext_no_valid/
+resnext_original_ckpt/
+resnext_paper_ckpt/
+resnext_test/
+*.zip
+HW2/dataset/
+HW2/answer.json
+HW2/yolov5/data/
+HW2/yolov5/runs/
+HW2/yolov5/wandb/
