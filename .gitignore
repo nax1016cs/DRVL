@@ -12,6 +12,6 @@ resnext_test/
 *.zip
 HW2/dataset/
 HW2/answer.json
-HW2/yolov5/data/
 HW2/yolov5/runs/
 HW2/yolov5/wandb/
+HW2/wandb/
