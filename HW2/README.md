@@ -8,6 +8,10 @@ This is the second homework of VRDL course in NYCU, which is about to do object 
 - GeForce GTX 1080 Ti
 
 
+## Notebook link
+
+[Notebook link](https://colab.research.google.com/drive/1ANLECrkBFCUwuojwRGmdB0jU9bGUCQPH?usp=sharing)
+
 ## Installation
 
 Clone the repository and enter the folder.
@@ -104,3 +108,5 @@ Then you can infernece the model with following command.
 ```sh
 python inference.py --data config.yaml --weights  best.pt  --save-json  --task test --img 640
 ```
+
+The results json file can be found at DRVL/HW2/yolov5/runs/val/exp/
