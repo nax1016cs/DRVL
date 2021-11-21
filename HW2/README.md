@@ -107,6 +107,5 @@ python train.py --data config.yaml --weights yolov5x6.pt --img 640
 Then you can infernece the model with following command.
 ```sh
 python inference.py --data config.yaml --weights  best.pt  --save-json  --task test --img 640
+cp runs/val/exp/best_predictions.json answer.json
 ```
-
-The results json file can be found at DRVL/HW2/yolov5/runs/val/exp/
