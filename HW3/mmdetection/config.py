@@ -28,5 +28,5 @@ data = dict(
         ann_file=data_root + 'test_img_ids.json'
     ),
 )
-load_from = 'ckpt/mask_rcnn_x101_32x4d_fpn_2x_coco_bbox_mAP-0.422__segm_mAP\
-            -0.378_20200506_004702-faef898c.pth'
+load_from = 'ckpt/mask_rcnn_x101_32x4d_fpn_2x_coco_bbox_mAP-0.422_\
+_segm_mAP-0.378_20200506_004702-faef898c.pth'
