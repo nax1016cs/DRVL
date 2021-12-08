@@ -1,5 +1,5 @@
 # HW3
-This is the second homework of VRDL course in NYCU, which is about to do object detection on Street View House Numbers detection.
+This is the third homework of VRDL course in NYCU, which is about to do instance segmentation on Nuclei dataset.
 
 ## Hardware
 
