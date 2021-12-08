@@ -81,6 +81,6 @@ cd .. && python tools/train.py config.py
 
 ## Inference
 ```
-python tools/test.py config.py best.pth --eval bbox segm --options "jsonfile_prefix=./results"
+python inference.py config.py best.pth --eval bbox segm --options "jsonfile_prefix=./results"
 mv results.segm.json answer.json
 ```
