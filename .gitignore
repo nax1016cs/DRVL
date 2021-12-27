@@ -19,4 +19,6 @@ HW4/dataset
 HW4/DBPN-Pytorch/ckpt
 HW4/DBPN-Pytorch/result
 HW4/DBPN-Pytorch/models
+HW4/DBPN-Pytorch/input/*
 *.pth
+*.png
