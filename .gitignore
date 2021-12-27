@@ -15,3 +15,8 @@ HW2/answer.json
 HW2/yolov5/runs/
 HW2/yolov5/wandb/
 HW2/wandb/
+HW4/dataset
+HW4/DBPN-Pytorch/ckpt
+HW4/DBPN-Pytorch/result
+HW4/DBPN-Pytorch/models
+*.pth
