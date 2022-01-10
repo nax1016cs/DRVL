@@ -1,5 +1,5 @@
 from os.path import join
-from torchvision.transforms import Compose, CenterCrop, ToTensor, Resize
+from torchvision.transforms import Compose, ToTensor
 from dataset import DatasetFromFolderEval, DatasetFromFolder
 
 def transform():

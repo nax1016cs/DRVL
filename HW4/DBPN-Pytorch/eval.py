@@ -99,7 +99,7 @@ def eval():
 def save_img(img, img_name):
     save_img = img.squeeze().clamp(0, 1).numpy().transpose(1,2,0)
     # save img
-    save_dir=os.path.join(opt.output,opt.test_dataset)
+    save_dir=os.path.join(opt.output)
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
         
